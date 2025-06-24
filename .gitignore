@@ -1,6 +1,6 @@
 #Personnal
 **/.ipynb_checkpoints/
-
+*.tar.gz
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
