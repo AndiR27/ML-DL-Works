@@ -1,6 +1,11 @@
-# 🤖 ML & DL Labs – Travaux pratiques en Machine Learning & Deep Learning
+# Travaux pratiques en Machine Learning & Deep Learning
 
-Ce dépôt regroupe l’ensemble des **travaux pratiques réalisés dans le cadre des cours** suivants :
+Ce dépôt regroupe l’ensemble des **travaux pratiques réalisés dans le cadre des cours** suivants de la formation Master en DataScience à la Haute École de Gestion de Genève (HEG) :
+
+Les cours ont été dispensés par le professeur HES **Alexandros Kalousis**, 
+la collaboratrice scientifique HES **Frantzeska Lavda** et 
+l'assisstant HES et PhD student **Joao Candido Ramos** (qui a principalement supervisé
+les labos et les différents fournis pour les TPs).
 
 - 🧠 **Machine Learning**
 - 🧬 **Advanced Neural Networks (Deep Learning)**
